@@ -1,6 +1,6 @@
 # 35 Trybeer v2
 
-## :page_with_curl: React | Node | MySQL | MongoDB <br /><br />
+## :page_with_curl: React | Node | MySQL | MongoDB | <span>Socket.io</span> <br /><br />
 
 ### O objetivo do projeto era criar um app FullStack de entrega de comida, do zero. Para o FrontEnd utilizamos React, com ContextAPI para compartilhamento de estado. para o BackEnd utilizamos Node (Express), e a biblioteca <span>Socket.io</span> para a criação de um Chat em tempo real. Foram criados dois bancos de dados, um utilizando MySQL (com o ORM Sequelize) para o cadastro de usuários, pedidos e produtos; e outro utilizando MongoDB, para o cadastro das mensagens do chat.
 ---
